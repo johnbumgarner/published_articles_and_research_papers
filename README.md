@@ -1,1 +1,92 @@
-# published_work
+# Overview 
+<p align="justify">
+This repository contains some of the articles and research papers that I have published over the years. 
+</p>
+   
+# Articles
+
+## Asia Pacific Defense Forum
+
+<p align="justify"> 
+The Asia Pacific Defense Forum (APDF) is a professional military magazine published quarterly by the Commander of the United States Pacific Command (USPACOM) to provide an international forum for military personnel within the Asia-Pacific region. 
+</p>
+
+
+   <b>Article Title:</b> &nbsp; <a href="https://github.com/johnbumgarner/published_work/blob/master/Asia%20Pacific%20Defense%20Forum%20(APDF)/Cyber%20Alliances%20-%20FY2011/The%20emerging%20importance%20of%20cyber%20alliances%20in%20the%20Asia%20Pacific.pdf"> Cyber Alliances</a><br>
+   <b>Year Published:</b> &nbsp; 2011<br>
+   <b>Synopsis:</b> &nbsp; This article provides an overview of the importance of establishing cyber alliances in the Asia Pacific theater,  because globalization has made the region strategic important to the world's economy.
+
+<b>Article Title:</b>  &nbsp; <a href="https://github.com/johnbumgarner/published_work/blob/master/Asia%20Pacific%20Defense%20Forum%20(APDF)/Tech-Savvy%20Terrorists%20-%20FY2011/Tech-Savvy%20Terrorists.pdf">Tech-Savvy Terrorists</a><br>
+<b>Year Published:</b> &nbsp; 2011<br>
+<b>Synopsis:</b> &nbsp; This article discusses extremism on the Internet and how this radicalism can lead to terrorist acts in both cyberspace and physical space.  Methodologies to counter this extremism are also highlighted. 
+
+<b>Article Title:</b> &nbsp; <a href="https://github.com/johnbumgarner/published_work/blob/master/Asia%20Pacific%20Defense%20Forum%20(APDF)/Securing%20the%20Cyber%20Sphere%20-%20FY2012/Securing%20The%20Cyber%20Sphere.pdf"> Securing The Cyber Sphere</a><br>
+<b>Year Published:</b> &nbsp; 2012<br>
+<b>Synopsis:</b> &nbsp; This article highlights the need to rethink current military doctrine to support both offensive and defensive operations in cyberspace. 
+
+<b>Article Title:</b> &nbsp; <a href="https://github.com/johnbumgarner/published_work/blob/master/Asia%20Pacific%20Defense%20Forum%20(APDF)/When%20seconds%20count%20-%20FY2012/When%20seconds%20count.pdf">When seconds count</a><br>
+<b>Year Published:</b> &nbsp; 2012<br>
+<b>Synopsis:</b> &nbsp; This article looks at the usefulness of Earthquake Early Warning systems and Tsunami Warning Services in the Asia Pacific region. 
+
+## Counter Terrorist Magazine
+<p align="justify">
+The Counter Terrorist Magazine is considered the premier terrorism journal for law enforcement, intelligence and special operations professionals.
+</p>
+
+<b>Article Title:</b> &nbsp; <a href="https://github.com/johnbumgarner/published_work/blob/master/Counter%20Terrorist%20Magazine/Jihad%20in%20%20Cyberspace.pdf">Jihad in Cyberspace</a><br>
+<b>Year Published:</b> &nbsp; 2010<br>
+<b>Synopsis:</b> &nbsp;  This article examine the rise of Islamic jihadists in cyberspace and how these fundamentalisms communicate, recruit and train in the digital realm. 
+
+## Homeland Security Journal
+
+<b>Article Title:</b> &nbsp; <a href="https://github.com/johnbumgarner/published_work/blob/master/Homeland%20Security%20Journal/%20Homeland%20Security%20Journal%20-%20Cyber%20Reconnaissance%20-%20Feb%202008.pdf">Cyber Reconnaissance</a><br>
+<b>Year Published:</b> &nbsp; 2008<br>
+<b>Synopsis:</b> &nbsp;  This article explores the techniques that be used by terrorist groups to conduct remote reconnaissance of a potential target from the safety of their computers.  The article highlights how Google Streetview, Google Earth and Microsoft Virtual Earth are useful tools for planning a terrorist attack.  A skilled attacker can use these online services to identify choke points or locations to plant explosives.  A sophisticated adversary could couple these services with air flow models to determine how a chemical dispersion agent would flow.  
+
+## Information Operations (IO) Journal
+<p align="justify">
+The Information Operations (IO) Journal was a magazine published by the Association of Old Crows. 
+</p>
+
+<b>Article Title:</b> &nbsp; <a href="https://github.com/johnbumgarner/published_work/blob/master/Information%20Operations%20(IO)%20Journal/Computers%20as%20Weapons%20of%20War.pdf">Computers as Weapons of War</a><br>
+<b>Year Published:</b> &nbsp; 2010<br>
+<b>Synopsis:</b> &nbsp; This article looks at the evolution of offensive cyber operations that can be used either military forces or intelligence agencies to accomplish both tactical and strategical objectives.  The article discusses the uses of cyber attacks on the battlefield and beyond the battlefield.  For instance modern battle tanks are laden with advanced electronics that be disrupted with certain cyber techniques.  Another example highlighted in the article is the use of stealthy cyber attacks to damage gas centrifuges used for uranium enrichment.  The use of the latter attack technique was validated in a real-world cyber attack.  This attack is now known as Stuxnet, which was the sophisticated cyber weapon designed to infiltrate and destroy gas centrifuges used by Iran. 
+
+## Intersec Magazine
+<p align="justify">
+Intersec is a monthly journal of international security, covering all aspects of global threat and response.
+</p>
+
+<b>Article Title:</b>  &nbsp; <a href="https://github.com/johnbumgarner/published_work/blob/master/Intersec%20Magazine/Intersec%20Magazine%20-%20Electronic%20Warfare%20-%20Apr%202008.pdf">Electronic Warfare</a><br>
+<b>Year Published:</b> &nbsp; 2008<br>
+<b>Synopsis:</b> &nbsp; This article highlights the potential for cyber attacks against critical infrastructure targets, including the energy sector. 
+
+## ISSA Journal 
+<p align="justify">
+The ISSA Journal is a monthly magazine published by the Information Systems Security Association.  
+</p>
+
+<b>Article Title:</b>  &nbsp; <a href="https://github.com/johnbumgarner/published_work/blob/master/ISSA%20Journal/A%20Hacker%20Will%20Be%20With%20You%20Shortly%20-%20FY2003/A%20Hacker%20Will%20Be%20With%20You%20Shortly%20-%20Nov%202003%20-%20ISSA%20Journal.pdf">A Hacker Will Be With You Shortly</a><br>
+<b>Year Published:</b> &nbsp; 2003<br>
+<b>Synopsis:</b> &nbsp; This article looks at various social engineering methodologies and the potential countermeasures for these attacks.  
+
+<b>Article Title:</b>  &nbsp; <a href="https://github.com/johnbumgarner/published_work/blob/master/ISSA%20Journal/Are%20USB%20Flash%20Drives%20a%20security%20threat%20-%20FY2003/Are%20USB%20Flash%20Drives%20a%20security%20threat%20to%20the%20enterprise%20-%20Dec%202003%20-%20ISSA%20Journal.pdf">Are USB Flash Drives a security threat</a><br>
+<b>Year Published:</b> &nbsp; 2003<br>
+<b>Synopsis:</b> &nbsp; This article explores the threats from USB drives and some basic technical countermeasures to limit one's exposure to this threat.
+
+<b>Article Title:</b>  &nbsp; <a href="https://github.com/johnbumgarner/published_work/blob/master/ISSA%20Journal/Dialing%20up%20new%20security%20woes%20-%20FY2005/Dialing%20up%20new%20security%20woes%20-%20Apr%202005%20-%20ISSA%20Journal.pdf">Dialing up new security woes</a><br>
+<b>Year Published:</b> &nbsp; 2005<br>
+<b>Synopsis:</b> &nbsp; This article highlights the security threats posed by voice over internet protocol (VoIP), including spoofing, eavesdropping and malware leapfrogging.
+
+<b>Article Title:</b>  &nbsp; <a href="https://github.com/johnbumgarner/published_work/blob/master/ISSA%20Journal/Worms%20the%20New%20Weapons%20of%20Mass%20Destruction%20-%20FY2005/Worms%20the%20New%20Weapons%20of%20Mass%20Destruction%20-%20Jan%202005%20-%20ISSA%20Journal.pdf">Worms the New Weapons of Mass Destruction</a><br>
+<b>Year Published:</b> &nbsp; 2005<br>
+<b>Synopsis:</b> &nbsp; This article explores how computer worms can be used for targeted attacks by intelligence agencies or cyber criminals.  One of the attack scenarios discussed is how an adversary could use a sophisticated worm to target and distrust another county's presidential election.  The article also highlights 21 advanced techniques that can be designed into a self-aware (artificial intelligence) computer worm or virus.  _Side Note: most of these techniques were later used in Stuxnet and other advance pieces of malware._
+
+## Taiwanese National Defense Digest 
+<p align="justify">
+The Taiwanese National Defense Digest is published by the Armed Forces of Taiwan.
+</p>
+
+<b>Article Title:</b>  &nbsp; <a href="https://github.com/johnbumgarner/published_work/blob/master/Taiwanese%20National%20Defense%20Digest/Tech-savvy%20Terrorists.pdf">Tech-Savvy Terrorists</a><br>
+<b>Year Published:</b> &nbsp; 2011<br>
+<b>Synopsis:</b> &nbsp; This article discusses extremism on the Internet and how this radicalism can lead to terrorist acts in both cyberspace and physical space.  Methodologies to counter this extremism are also highlighted. 
