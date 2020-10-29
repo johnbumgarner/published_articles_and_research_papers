@@ -108,7 +108,7 @@ This International Conference on Artificial Intelligence was part of the World C
 
 <b>Article Title:</b>  &nbsp; <a href="https://github.com/johnbumgarner/published_articles_and_research_papers/blob/master/US-CCU%20Reports/US-CCU%20Georgia%20Cyber%20Campaign%20Overview.pdf">Overview of the Cyber Campaign Against Georgia in August of 2008</a><br>
 <b>Year Published:</b> &nbsp; 2009<br>
-<b>Synopsis:</b> &nbsp; This special report highlights the ramifications of the August 2008 cyber campaign against the country of Georgia. The report provides a public analysis of this cyber campaign and the lessons learned from this event.
+<b>Synopsis:</b> &nbsp; This special report highlights the consequences of the August 2008 cyber campaign against the country of Georgia. The report provides a public analysis of this cyber campaign and the lessons learned from this regional incident that had international ramifications.
 
 
 
