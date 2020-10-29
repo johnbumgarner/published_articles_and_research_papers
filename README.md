@@ -1,8 +1,8 @@
 # Overview 
 <p align="justify">
-In order to fully appreciate the context in which these were written, I humbly request you take note of the dates these articles were authored. At the time these were written many of the malware techniques described were not in the public domain. In the years following the publication of the articles most of the techniques highlighted have been implemented in sophisticated cyber attacks conducted by either nation states or cyber criminal organizations.
-
-These articles illustrate the absolute need to defend against attacks on critical infrastructures such as electrical power and telecommunications we all rely on.
+In order to fully appreciate the context in which some of these were written, I humbly request you take note of the dates these articles were authored. At the time these were written many of the malware techniques described were not in the public domain. In the years following the publication of these articles some of the techniques highlighted have been implemented in sophisticated malware used by either nation states actors or cyber criminal organizations. Many of these articles illustrate the absolute need to defend against attacks on critical infrastructures such as electrical power and telecommunications we all rely on.
+   
+The U.S. Cyber Consequences Unit Special Report on the Cyber Campaign Against Georgia has been referenced in over 75 books on cyber conflict, highlighted in over 100 news articles and has been discussed in various publications by the Atlantic Council, the North Atlantic Treaty Organization (NATO), the U.S. Department of Defense and many other organizations around the world.  
 </p>
    
 # Articles
@@ -38,6 +38,19 @@ The Counter Terrorist Magazine is considered the premier terrorism journal for l
 <b>Article Title:</b> &nbsp; <a href="https://github.com/johnbumgarner/published_work/blob/master/Counter%20Terrorist%20Magazine/Jihad%20in%20%20Cyberspace.pdf">Jihad in Cyberspace</a><br>
 <b>Year Published:</b> &nbsp; 2010<br>
 <b>Synopsis:</b> &nbsp;  This article examines the rise of Islamic jihadists in cyberspace and how these fundamentalists communicate, recruit and train in the digital realm. 
+
+## Dark Reading
+<p align="justify">
+Dark Reading is one of the widely-read cyber security news sites in the world.  
+</p>
+
+<b>Article Title:</b> &nbsp; <a href="https://www.darkreading.com/attacks-breaches/a-virus-of-biblical-distortions/d/d-id/1141007?">A Virus Of Biblical Distortions</a><br>
+<b>Year Published:</b> &nbsp; 2013<br>
+<b>Synopsis:</b> &nbsp; This article re-examines the 'myrtus' text string contained in the cyber weapon "Stuxnet," which was used to damage gas centrifuges used my Iran for uranium enrichment.
+
+<b>Article Title:</b> &nbsp; <a href="https://www.darkreading.com/attacks-breaches/a-cyber-history-of-the-ukraine-conflict/d/d-id/1127892?">A Cyber History Of The Ukraine Conflict</a><br>
+<b>Year Published:</b> &nbsp; 2014<br>
+<b>Synopsis:</b> &nbsp; This article provides a brief overview of the cyber events impacting the Autonomous Republic of Crimea (Ukraine) by Russia or its sympathizers.
 
 ## Homeland Security Journal
 
