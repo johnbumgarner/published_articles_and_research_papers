@@ -1,6 +1,8 @@
 # Overview 
 <p align="justify">
-This repository contains some of the articles and research papers that I have published over the years. 
+In order to appreciate the context in which these were written, I humbly request you take note of the dates these articles were authored. At the time these were written many of the malware techniques described were not in the public domain. In the years following the publication of the articles most of the techniques highlighted have been implemented in sophisticated cyber attacks conducted by either nation states or cyber criminal organizations.
+
+These articles illustrate the absolute need to defend against attacks on critical infrastructures such as electrical power and telecommunications we all rely on.
 </p>
    
 # Articles
@@ -12,9 +14,9 @@ The Asia Pacific Defense Forum (APDF) is a professional military magazine publis
 </p>
 
 
-   <b>Article Title:</b> &nbsp; <a href="https://github.com/johnbumgarner/published_work/blob/master/Asia%20Pacific%20Defense%20Forum%20(APDF)/Cyber%20Alliances%20-%20FY2011/The%20emerging%20importance%20of%20cyber%20alliances%20in%20the%20Asia%20Pacific.pdf"> Cyber Alliances</a><br>
-   <b>Year Published:</b> &nbsp; 2011<br>
-   <b>Synopsis:</b> &nbsp; This article provides an overview of the importance of establishing cyber alliances in the Asia Pacific theater because globalization has made the region strategic important to the world's economy.
+<b>Article Title:</b> &nbsp; <a href="https://github.com/johnbumgarner/published_work/blob/master/Asia%20Pacific%20Defense%20Forum%20(APDF)/Cyber%20Alliances%20-%20FY2011/The%20emerging%20importance%20of%20cyber%20alliances%20in%20the%20Asia%20Pacific.pdf"> Cyber Alliances</a><br>
+<b>Year Published:</b> &nbsp; 2011<br>
+<b>Synopsis:</b> &nbsp; This article provides an overview of the importance of establishing cyber alliances in the Asia Pacific theater because globalization has made the region strategic important to the world's economy.
 
 <b>Article Title:</b>  &nbsp; <a href="https://github.com/johnbumgarner/published_work/blob/master/Asia%20Pacific%20Defense%20Forum%20(APDF)/Tech-Savvy%20Terrorists%20-%20FY2011/Tech-Savvy%20Terrorists.pdf">Tech-Savvy Terrorists</a><br>
 <b>Year Published:</b> &nbsp; 2011<br>
@@ -90,3 +92,24 @@ The Taiwanese National Defense Digest is published by the Armed Forces of Taiwan
 <b>Article Title:</b>  &nbsp; <a href="https://github.com/johnbumgarner/published_work/blob/master/Taiwanese%20National%20Defense%20Digest/Tech-savvy%20Terrorists.pdf">Tech-Savvy Terrorists</a><br>
 <b>Year Published:</b> &nbsp; 2011<br>
 <b>Synopsis:</b> &nbsp; This article discusses extremism on the Internet and how this radicalism can lead to terrorist acts in both cyberspace and physical space.  Methodologies to counter this extremism are also highlighted. 
+
+# Research Papers 
+
+## International Conference on Artificial Intelligence
+<p align="justify">
+This International Conference on Artificial Intelligence was part of the World Congress in Computer Science, Computer Engineering, and Applied Computing in 2014.
+</p>
+
+<b>Article Title:</b>  &nbsp; <a href="https://github.com/johnbumgarner/published_articles_and_research_papers/blob/master/ICAI%20Conference/Temporal%20Modeling%20of%20Twitter%20Posting%20Behavior.pdf">Temporal Modeling of Twitter Posting Behavior</a><br>
+<b>Year Published:</b> &nbsp; 2014<br>
+<b>Synopsis:</b> &nbsp; This paper describes our approach for temporally modeling the posting behavior of users on the Twitter microblogging service. While other researchers have analyzed general trends of Twitter behavior (for instance, few users contribute most of the posts), we instead focus on modeling the temporal behavior of individual users. Specifically, we determine whether we can model the day-of-the-week posting behavior (e.g., this person is a “weekend warrior”) and the within-day posting behavior (e.g., “night owl” or “morning person”) for individuals. This “individual life pattern” analysis is useful for medical and public health applications. For instance, significant deviations from normal behavior might indicate that a person is potentially ill. Our contribution focuses on probabilistically modeling the posting behavior and then using Kullback-Leibler divergence to demonstrate how well the model captures a user’s posting behavior.
+
+## U.S. Cyber Consequences Unit Special Report
+
+<b>Article Title:</b>  &nbsp; <a href="https://github.com/johnbumgarner/published_articles_and_research_papers/blob/master/US-CCU%20Reports/US-CCU%20Georgia%20Cyber%20Campaign%20Overview.pdf">Overview of the Cyber Campaign Against Georgia in August of 2008</a><br>
+<b>Year Published:</b> &nbsp; 2009<br>
+<b>Synopsis:</b> &nbsp; This special report highlights the ramifications of the August 2008 cyber campaign against the country of Georgia. The report provides a public analysis of this cyber campaign and the lessons learned from this event.
+
+
+
+
