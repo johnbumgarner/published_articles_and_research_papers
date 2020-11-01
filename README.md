@@ -1,6 +1,8 @@
+
+
 # Overview 
-<p align="justify">
-In order to fully appreciate the context in which some of these were written, I humbly request you take note of the dates these articles were authored. At the time these were written many of the malware techniques described were not in the public domain. In the years following the publication of these articles some of the techniques highlighted have been implemented in sophisticated malware used by either nation states actors or cyber criminal organizations. Many of these articles illustrate the absolute need to defend against attacks on critical infrastructures such as electrical power and telecommunications we all rely on.
+<p align="justify"> 
+This repository contains some of the articles that I have published in the public domain. In order to fully appreciate the context in which some of these were written, I humbly request you take note of the dates these articles were authored. At the time these were written many of the malware techniques described were not in the public domain. In the years following the publication of these articles some of the techniques highlighted have been implemented in sophisticated malware used by either nation states actors or cyber criminal organizations. Many of these articles illustrate the absolute need to defend against attacks on critical infrastructures such as electrical power and telecommunications we all rely on.
    
 The U.S. Cyber Consequences Unit Special Report on the Cyber Campaign Against Georgia has been referenced in over 75 books on cyber conflict, highlighted in over 100 news articles and has been discussed in various publications by the Atlantic Council, the North Atlantic Treaty Organization (NATO), the U.S. Department of Defense and many other organizations around the world.  
 </p>
